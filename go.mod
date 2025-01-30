@@ -48,7 +48,7 @@ require (
 	github.com/onsi/gomega v1.33.1
 	github.com/opencontainers/runc v1.1.13
 	github.com/opencontainers/selinux v1.11.0
-	github.com/openshift-eng/openshift-tests-extension v0.0.0-20241028125658-76ee2532d0bf
+	github.com/openshift-eng/openshift-tests-extension v0.0.0-20250128181728-a95ca461cacf
 	github.com/openshift/api v0.0.0-20241001152557-e415140e5d5f
 	github.com/openshift/apiserver-library-go v0.0.0-20241001175710-6064b62894a6
 	github.com/openshift/client-go v0.0.0-20241001162912-da6d55e4611f
@@ -85,7 +85,7 @@ require (
 	golang.org/x/time v0.3.0
 	golang.org/x/tools v0.24.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240924160255-9d4c2d233b61
-	google.golang.org/grpc v1.67.0
+	google.golang.org/grpc v1.65.0
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/evanphx/json-patch.v4 v4.12.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
@@ -223,7 +223,7 @@ require (
 	golang.org/x/mod v0.20.0 // indirect
 	golang.org/x/text v0.18.0 // indirect
 	google.golang.org/genproto v0.0.0-20230822172742-b8732ec3820d // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240930140551-af27646dc61f // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240528184218-531527333157 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/gengo/v2 v2.0.0-20240228010128-51d4e06bde70 // indirect
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.30.3 // indirect
